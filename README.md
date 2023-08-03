@@ -3,10 +3,10 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br>
 <h2>개요</h2>
-tVN에서 방영한 프로그램 '신서유기'에 나오는 인물 퀴즈 및 음악 퀴즈 게임에서 아이디어를 착안하였다.<br>
-웹 사이트에서 자동으로 카운트다운이 되어 혼자서도 즐길 수 있는 이른바 나 홀로 신서유기 게임이다.
+카페 키오스크 화면 웹 사이트다. 관리자 페이지 이동 기능을 포함했다.<br>
+✅ 주요 기능: 품절 표시 기능, 장바구니 기능, 주문서 표시, 주문 내역 DB 저장, 관리자 페이지 - 메뉴 수정 기능, 주문 내역 확인 기능 (5초마다 리다이렉트)<br><br>
 <h2>실행 화면</h2>
 <h4>1. 메인 화면</h4>
 <img width="1258" alt="main" src="https://github.com/msmsmsms23/cafe_kiosk/assets/134278493/bad3d1d0-3d8f-45a6-a3f4-8c7996b1e125">
